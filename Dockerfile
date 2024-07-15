@@ -1,6 +1,6 @@
 FROM guysoft/uwsgi-nginx:python3.7
 
-LABEL maintainer="hunshcn <hunsh.cn@gmail.com>"
+LABEL maintainer="zzc-tongji <20331014+zzc-tongji@users.noreply.github.com>"
 
 RUN pip install flask requests
 
